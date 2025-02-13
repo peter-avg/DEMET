@@ -7,7 +7,7 @@ formally known as "Prediction, Monitoring and Personalized Recommendations for P
 which aims to develop personalized and adaptive solutions 
 for dementia and frailty prevention and management. This effort aims to establish a pan-European framework for prevention 
 and intervention in dementia and frailty. It bolsters a multidisciplinary approach, combining expertise from the fields of 
-medicine, social sciences, humanities and technology. 
+medicine, social sciences, humanities and technology. The project was part of my thesis [which you can read here](https://dspace.lib.ntua.gr/xmlui/handle/123456789/61054).
 
 Our contribution to the COMFORTAGE project is the development of DEMET, or Dementia Explainable Transformer, an explainable, AI-driven
 cognitive assessment agent for dementia detection through spontaneous speech. DEMET utilises state-of-the-art deep learning models 
